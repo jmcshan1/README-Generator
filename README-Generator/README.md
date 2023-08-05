@@ -1,10 +1,9 @@
-# README generator
-
-by jayson01
+# ggggsd
+![GitHub License](https://img.shields.io/badge/License-None-blue.svg)
 
 ## Description
 
-makes profesional readme
+gddsggsd
 
 ## Table of Contents
 
@@ -24,30 +23,30 @@ makes profesional readme
 
 In order install the dependencies for the project, run the following commands in the terminal:
 
-npm i
+gfdg
 
 ## Usage
 
 What you should know about using this repo:
 
-Use it carefully
+gggg
 
 ## License 
 
-APACHE 2.0
+None
 
 ## Contributing
 
-How to you can contribute:
+How you can contribute:
 
-Email me
+ssssss
 
 ## Tests
 
 If you want to run tests for the application, run the following commands in your terminal:
 
-node index.js
+dsdggsgdg
 
 ## Questions
 
-Email me at: jmcshan01@gmail.com
+For questions, contact me on GitHub at https://github.com/ffggf or Email me at: fggffggf

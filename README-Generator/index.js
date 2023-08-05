@@ -3,8 +3,7 @@ const fs = require('fs');
 
 const generateREADME = ({githubName, projectName,description, dependenciesCommand, testCommands, usage, contributing, email, license}) =>
 `# ${projectName}
-
-by ${githubName}
+![GitHub License](https://img.shields.io/badge/License-${license}-blue.svg)
 
 ## Description
 
@@ -54,7 +53,7 @@ ${testCommands}
 
 ## Questions
 
-Email me at: ${email}`;
+For questions, contact me on GitHub at https://github.com/${githubName} or Email me at: ${email}`;
 
 inquirer
     .prompt([
@@ -80,7 +79,7 @@ inquirer
         },
         {
             type: 'list',
-            choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'VSD 3', 'None'],
+            choices: ['MIT', 'APACHE_2.0', 'GPL_3.0', 'VSD_3', 'None'],
             message: 'What kind of license will your project have?',
             name: 'license',
         },
