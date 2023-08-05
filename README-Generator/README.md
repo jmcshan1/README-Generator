@@ -1,48 +1,51 @@
-# README Generator
+# README generator
 
-by jmcshan01
+by jayson01
 
 ## Description
 
-My project generates a professional README based on what the user types into their terminal.
+makes profesional readme
 
 ## Table of Contents
 
 -[Installation](#installation)
 
--[Usage](#Usage)
+-[Usage](#usage)
 
--[License](#License)
+-[License](#license)
 
--[Contributing](#Contributing)
+-[Contributing](#contributing)
 
--[Tests](#Tests)
+-[Tests](#tests)
 
--[Questions](#Questions)
+-[Questions](#questions)
 
 ## Installation
 
-In order install the dependencies, run the following commands in the terminal:
+In order install the dependencies for the project, run the following commands in the terminal:
 
-Npm i
+npm i
 
 ## Usage
+
+What you should know about using this repo:
 
 Use it carefully
 
 ## License 
 
-None
+APACHE 2.0
 
 ## Contributing
 
-How to contribute:
+How to you can contribute:
 
-Idk, hit me up
+Email me
 
 ## Tests
 
 If you want to run tests for the application, run the following commands in your terminal:
+
 node index.js
 
 ## Questions

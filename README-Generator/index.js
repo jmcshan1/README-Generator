@@ -14,15 +14,15 @@ ${description}
 
 -[Installation](#installation)
 
--[Usage](#Usage)
+-[Usage](#usage)
 
--[License](#License)
+-[License](#license)
 
--[Contributing](#Contributing)
+-[Contributing](#contributing)
 
--[Tests](#Tests)
+-[Tests](#tests)
 
--[Questions](#Questions)
+-[Questions](#questions)
 
 ## Installation
 
@@ -42,7 +42,7 @@ ${license}
 
 ## Contributing
 
-How to you can contribute:
+How you can contribute:
 
 ${contributing}
 
