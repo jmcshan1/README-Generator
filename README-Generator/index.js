@@ -1,6 +1,10 @@
+// Imports inquirer npm
 const inquirer = require('inquirer');
+// Imports fs
 const fs = require('fs');
 
+// Layout of the README that will be generated. 
+// User input data is passed through as parameters and then placed in their corresponding sections in the generated README.
 const generateREADME = ({githubName, projectName,description, dependenciesCommand, testCommands, usage, contributing, email, license}) =>
 `# ${projectName}
 ![GitHub License](https://img.shields.io/badge/License-${license}-blue.svg)
@@ -55,6 +59,7 @@ ${testCommands}
 
 For questions, contact me on GitHub at https://github.com/${githubName} or Email me at: ${email}`;
 
+// Prompts for the user to answer.
 inquirer
     .prompt([
         {
@@ -105,8 +110,10 @@ inquirer
         },
     ])
     .then((data) => {
+        //Passes the user input data into the function
         const readmeContent = generateREADME(data);
 
+        // Generates the README
         fs.writeFile('README.md', readmeContent, (err) => 
         err ? console.log(err) : console.log('Success!')
         );
