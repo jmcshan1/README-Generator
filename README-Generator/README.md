@@ -1,9 +1,9 @@
-# ggggsd
+# README Generator
 ![GitHub License](https://img.shields.io/badge/License-None-blue.svg)
 
 ## Description
 
-gddsggsd
+Generates a professional README based on what the user inputs in the command line.
 
 ## Table of Contents
 
@@ -23,13 +23,13 @@ gddsggsd
 
 In order install the dependencies for the project, run the following commands in the terminal:
 
-gfdg
+npm i
 
 ## Usage
 
 What you should know about using this repo:
 
-gggg
+Make sure you have the dependencies installed first before you use it.
 
 ## License 
 
@@ -39,14 +39,14 @@ None
 
 How you can contribute:
 
-ssssss
+Email me.
 
 ## Tests
 
 If you want to run tests for the application, run the following commands in your terminal:
 
-dsdggsgdg
+node index.js
 
 ## Questions
 
-For questions, contact me on GitHub at https://github.com/ffggf or Email me at: fggffggf
+For questions, contact me on GitHub at https://github.com/jmcshan01 or Email me at: jmcshan01@gmail.com
