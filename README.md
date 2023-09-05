@@ -1,15 +1,52 @@
-# README Generator
+# NoteTaker
+![GitHub License](https://img.shields.io/badge/License-None-blue.svg)
 
 ## Description
 
-This is a command-line application the generates a professional README. Instead of going out of your way to type up a README file for your project, you can simply answer the questions prompted to you and a README will be generated.
+Write notes on this website and save them for later. Use this so you can organize your thoughts and keep track of task you need to complete.
 
-To use this program, make sure you have node installed beforehand. Download the program and navigate to the README-Generator folder inside of it in your terminal. In the terminal, type in 'npm i' to make sure that you have all of the required dependencies. After that is finished, type in 'node index.js' in the terminal and answer the questions presented to you. Your README will be generated when you are done.
+## Table of Contents
 
-## Video Demonstration
+-[Installation](#installation)
 
-https://drive.google.com/file/d/1WiT1WJOsHgUPVz62_cFyoWnso_s4N62I/view
+-[Usage](#usage)
 
-## Links
+-[License](#license)
 
-https://github.com/jmcshan1/README-Generator
+-[Contributing](#contributing)
+
+-[Tests](#tests)
+
+-[Questions](#questions)
+
+## Installation
+
+In order install the dependencies for the project, run the following commands in the terminal:
+
+npm init -y and then npm i
+
+## Usage
+
+What you should know about using this repo:
+
+The feature to delete saved notes ahve not been added yet but will be added at a later date.
+
+## License 
+
+None
+
+## Contributing
+
+How you can contribute:
+
+Email me at jmcshan01@gmail.com.
+
+## Tests
+
+If you want to run tests for the application, run the following commands in your terminal:
+
+npm start
+
+## Questions
+
+For questions, contact me on GitHub at https://github.com/jmcshan01 or Email me at: jmcshan01@gmail.com
